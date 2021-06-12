@@ -1,5 +1,5 @@
 # snake-game
-Live at : https://app.netlify.com/sites/snake-game-viv/settings/general
+Live at: https://snake-game-viv.netlify.app/
 
 This is Vanilla javascript snake game with functional programming.
 
